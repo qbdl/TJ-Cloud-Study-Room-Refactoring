@@ -38,14 +38,15 @@ npm run serve
 ## 运行效果：
 
 <center class="half">    
-    <img src="./assets/image-20230714210906977.png" alt="image-20230714210906977" width="450"/>    
-    <img src="./assets/image-20230714210939403.png" alt="image-20230714210939403" width="450"/> 
+    <img src="./assets/image-20230714210906977.png" alt="image-20230714210906977" width="700"/>    
+    <img src="./assets/image-20230714210939403.png" alt="image-20230714210939403" width="700"/> 
 </center>
 
 <center class="half">    
-    <img src="./assets/image-20230714211054219.png" alt="image-20230714211054219" width="450"/>    
-    <img src="./assets/image-20230714211229577.png" alt="image-20230714211229577" width="450"/> 
+    <img src="./assets/image-20230714211054219.png" alt="image-20230714211054219" width="700"/>    
+    <img src="./assets/image-20230714211229577.png" alt="image-20230714211229577" width="700"/> 
 </center>
+
 
 
 
